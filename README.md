@@ -35,8 +35,7 @@
    
     Выполните команду git status и запомните результат.
     Отредактируйте файл README.md любым удобным способом, переведя файл в состояние Modified.
-    
-       ![ed9efb48-eb2e-42eb-ab2e-0ca1661fd3b6](https://user-images.githubusercontent.com/75700701/219429970-d540df89-edcc-4edc-9a48-04d1f483d74a.jpg)
+    ![ed9efb48-eb2e-42eb-ab2e-0ca1661fd3b6](https://user-images.githubusercontent.com/75700701/219429970-d540df89-edcc-4edc-9a48-04d1f483d74a.jpg)
 
    
     
