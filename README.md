@@ -30,7 +30,8 @@
     Произведите первоначальную настройку Git, указав своё настоящее имя и email: git config --global user.name и git config --global user.email johndoe@example.com.
     Выполните команду git status и запомните результат.
     
-    ![75f9d4c8-9408-4c0f-8f4d-581dad49c37f](https://user-images.githubusercontent.com/75700701/219428643-6aee97f6-73c1-4200-a6b9-0a525bcf559e.jpg)
+    ![75f9d4c8-9408-4c0f-8f4d-581dad49c37f](https://user-images.githubusercontent.com/75700701/219428778-4270a7f7-b30d-4294-9723-0eb0314d8a29.jpg)
+
 
     Отредактируйте файл README.md любым удобным способом, переведя файл в состояние Modified.
     Ещё раз выполните git status и продолжайте проверять вывод этой команды после каждого следующего шага.
