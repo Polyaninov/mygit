@@ -80,7 +80,7 @@
 
     
     
-  
+  https://github.com/Polyaninov/mygit/blob/2f91e99e52ead81ecf7885b49bcac8d603c59705/.gitignore
 
     
     
