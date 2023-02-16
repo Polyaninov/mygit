@@ -43,6 +43,9 @@
      Посмотрите изменения в файле README.md, выполнив команды git diff и git diff --staged.
      
      ![fdddf973-ccdc-47d0-88f7-0934825c9ae9](https://user-images.githubusercontent.com/75700701/219431425-aeb7ccdf-590b-47c1-a1b4-4dc03c7df48f.jpg)
+     
+  4.    Переведите файл в состояние staged или, как говорят, добавьте файл в коммит, командой git add README.md.
+     Ещё раз выполните команды git diff и git diff --staged
 
 
 
