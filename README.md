@@ -46,6 +46,9 @@
      
   4.    Переведите файл в состояние staged или, как говорят, добавьте файл в коммит, командой git add README.md.
      Ещё раз выполните команды git diff и git diff --staged
+     
+     ![0b589b9c-560b-4ba3-a644-b4875816cf48](https://user-images.githubusercontent.com/75700701/219435006-1bc865ee-11a6-4069-a84e-534f8b6b6bf2.jpg)
+
 
 
 
