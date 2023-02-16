@@ -63,10 +63,10 @@
      Что нужно сделать:
 
      Создайте файл .gitignore (обратите внимание на точку в начале файла) и проверьте его статус сразу после создания.
+     ![ca31db7b-a69b-4b89-8732-01a7f67b7add](https://user-images.githubusercontent.com/75700701/219436419-d7953c1c-7306-47e0-9d1f-45039edf437b.jpg)
+
       
-      ![ca31db7b-a69b-4b89-8732-01a7f67b7add](https://user-images.githubusercontent.com/75700701/219436331-ad0211b7-b241-4574-a201-af61d59c65e5.jpg)
-
-
+      
 
 
 
