@@ -39,6 +39,12 @@
 
 ![ed9efb48-eb2e-42eb-ab2e-0ca1661fd3b6](https://user-images.githubusercontent.com/75700701/219430557-3b8ce932-5a2d-4d45-ad5d-5b967e471ec3.jpg)
 
+3.   Ещё раз выполните git status и продолжайте проверять вывод этой команды после каждого следующего шага.
+     Посмотрите изменения в файле README.md, выполнив команды git diff и git diff --staged.
+     
+     ![fdddf973-ccdc-47d0-88f7-0934825c9ae9](https://user-images.githubusercontent.com/75700701/219431425-aeb7ccdf-590b-47c1-a1b4-4dc03c7df48f.jpg)
+
+
 
 
    
