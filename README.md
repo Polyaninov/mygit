@@ -22,7 +22,8 @@
     Создайте публичный репозиторий. Обязательно поставьте галочку в поле «Initialize this repository with a README».
     
     Склонируйте репозиторий, используя https протокол git clone ....
-    file:///home/pmn/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BA%D0%B8%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-02-16%2016-51-22.png![изображение](https://user-images.githubusercontent.com/75700701/219396781-7bdfc321-f15d-4bba-a130-bc0c7f0d8890.png)
+    
+![2667b1a8-25e1-4e06-b919-eab8c7474ad1](https://user-images.githubusercontent.com/75700701/219427462-1edd10a8-876a-4f80-94f3-6b8605f2b3f4.jpg)
 
     
     Перейдите в каталог с клоном репозитория.
