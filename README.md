@@ -59,12 +59,14 @@
 
         
 
+
      Задание 2
      Что нужно сделать:
 
      Создайте файл .gitignore (обратите внимание на точку в начале файла) и проверьте его статус сразу после создания.
-     
-        ![ca31db7b-a69b-4b89-8732-01a7f67b7add](https://user-images.githubusercontent.com/75700701/219436509-5840816c-4522-4986-894a-f97e5303956b.jpg)
+       
+       ![ca31db7b-a69b-4b89-8732-01a7f67b7add](https://user-images.githubusercontent.com/75700701/219436611-0cd84ae8-6507-407d-84e6-1bddbe14600b.jpg)
+
 
   
 
