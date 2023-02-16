@@ -33,9 +33,12 @@
    ![75f9d4c8-9408-4c0f-8f4d-581dad49c37f](https://user-images.githubusercontent.com/75700701/219429549-f41638df-4b9b-4959-8516-5c9e0ca6459c.jpg)
    
    
-    Выполните команду git status и запомните результат.
-    Отредактируйте файл README.md любым удобным способом, переведя файл в состояние Modified.
-    ![ed9efb48-eb2e-42eb-ab2e-0ca1661fd3b6](https://user-images.githubusercontent.com/75700701/219429970-d540df89-edcc-4edc-9a48-04d1f483d74a.jpg)
+    2. Выполните команду git status и запомните результат.
+       Отредактируйте файл README.md любым удобным способом, переведя файл в состояние Modified.
+        
+       ![ed9efb48-eb2e-42eb-ab2e-0ca1661fd3b6](https://user-images.githubusercontent.com/75700701/219430190-6f40d709-4fb9-496b-a1f9-4df883ea66c3.jpg)
+
+
 
    
     
