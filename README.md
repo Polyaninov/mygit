@@ -49,8 +49,13 @@
         Ещё раз выполните команды git diff и git diff --staged
 
         ![0b589b9c-560b-4ba3-a644-b4875816cf48](https://user-images.githubusercontent.com/75700701/219435211-b741f937-45cf-45c0-b45a-5de3b48bf052.jpg)
+        
+        
+  5.   Теперь можно сделать коммит git commit -m 'First commit'.
+        Сделайте git push origin master.
 
-     
+     ![9f33c373-ff27-4a04-ac14-7e4b484e80d1](https://user-images.githubusercontent.com/75700701/219435518-8a5c48b4-d19b-4211-98d2-8044ed8064f7.jpg)
+
  
 
 
