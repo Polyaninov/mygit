@@ -74,8 +74,11 @@
     Напишите правила в этом файле, чтобы игнорировать любые файлы .pyc, а также все файлы в директории cache.
     Сделайте коммит и пуш.
     
+      ![9f33c373-ff27-4a04-ac14-7e4b484e80d1 (1)](https://user-images.githubusercontent.com/75700701/219465649-4056c7e9-acdb-435d-8583-93fd8877f09f.jpg)
+
     
-    ![9f33c373-ff27-4a04-ac14-7e4b484e80d1 (1)](https://user-images.githubusercontent.com/75700701/219465545-0188ae94-a1c1-459c-9c08-a631cf7a65dd.jpg)
+    
+  
 
     
     
