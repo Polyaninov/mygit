@@ -71,8 +71,12 @@
     ![6918b477-4c14-4e2e-a556-ab024aeae5e6](https://user-images.githubusercontent.com/75700701/219464952-94c04906-b0cb-4fff-bea3-902f3c4129b3.jpg)
   
   
+  
+  
+  
     Напишите правила в этом файле, чтобы игнорировать любые файлы .pyc, а также все файлы в директории cache.
     Сделайте коммит и пуш.
+    
     
     ![9f33c373-ff27-4a04-ac14-7e4b484e80d1 (1)](https://user-images.githubusercontent.com/75700701/219465318-eb0d0d39-eda2-454e-9862-7744954f3402.jpg)
 
