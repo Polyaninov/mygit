@@ -67,7 +67,8 @@
 
      Создайте файл .gitignore (обратите внимание на точку в начале файла) и проверьте его статус сразу после создания.
        
-   ![ca31db7b-a69b-4b89-8732-01a7f67b7add](https://user-images.githubusercontent.com/75700701/219464684-5c5572d0-d3ec-4cb1-bd7c-773205bd0c10.jpg)
+  ![6918b477-4c14-4e2e-a556-ab024aeae5e6](https://user-images.githubusercontent.com/75700701/219464952-94c04906-b0cb-4fff-bea3-902f3c4129b3.jpg)
+
 
 
 
