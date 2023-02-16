@@ -18,7 +18,7 @@
 
 Что нужно сделать:
 
-    Зарегистрируйте аккаунт на GitHub.
+    1. Зарегистрируйте аккаунт на GitHub.
     Создайте публичный репозиторий. Обязательно поставьте галочку в поле «Initialize this repository with a README».
     
     Склонируйте репозиторий, используя https протокол git clone ....
@@ -26,22 +26,12 @@
 ![2667b1a8-25e1-4e06-b919-eab8c7474ad1](https://user-images.githubusercontent.com/75700701/219427462-1edd10a8-876a-4f80-94f3-6b8605f2b3f4.jpg)
 
     
-    Перейдите в каталог с клоном репозитория.
-    Произведите первоначальную настройку Git, указав своё настоящее имя и email: git config --global user.name и git config --global user.email johndoe@example.com.
-    Выполните команду git status и запомните результат.
+    2. Перейдите в каталог с клоном репозитория.
+       Произведите первоначальную настройку Git, указав своё настоящее имя и email: git config --global user.name и git config --global user.email johndoe@example.com.
+      Выполните команду git status и запомните результат.
     
-    ![75f9d4c8-9408-4c0f-8f4d-581dad49c37f](https://user-images.githubusercontent.com/75700701/219428778-4270a7f7-b30d-4294-9723-0eb0314d8a29.jpg)
+     ![75f9d4c8-9408-4c0f-8f4d-581dad49c37f](https://user-images.githubusercontent.com/75700701/219428778-4270a7f7-b30d-4294-9723-0eb0314d8a29.jpg)
 
-
-    Отредактируйте файл README.md любым удобным способом, переведя файл в состояние Modified.
-    Ещё раз выполните git status и продолжайте проверять вывод этой команды после каждого следующего шага.
-    Посмотрите изменения в файле README.md, выполнив команды git diff и git diff --staged.
-    Переведите файл в состояние staged или, как говорят, добавьте файл в коммит, командой git add README.md.
-    Ещё раз выполните команды git diff и git diff --staged.
-    Теперь можно сделать коммит git commit -m 'First commit'.
-    Сделайте git push origin master.
-
-В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
 Задание 2
 
 Что нужно сделать:
